@@ -9,7 +9,7 @@ In terms of temperature and precipitation: The correlation is 0.047, indicating 
 
 **Univariate Regression Analysis**
 
-    The performance of the univariate models (predicting precipitation using a single feature) is summarized in the table.  When wind speed is applied as a predictor, the R² value (coefficient of determination) is 0.00048 for training and -0.0016 for testing. A near-zero or negative R² means that wind speed does not explain any variance in precipitation. When temperature is applied as a predictor, the R² is also very low (0.0041 for training and -0.0063 for testing), suggesting temperature is also a poor predictor of precipitation.
+The performance of the univariate models (predicting precipitation using a single feature) is summarized in the table.  When wind speed is applied as a predictor, the R² value (coefficient of determination) is 0.00048 for training and -0.0016 for testing. A near-zero or negative R² means that wind speed does not explain any variance in precipitation. When temperature is applied as a predictor, the R² is also very low (0.0041 for training and -0.0063 for testing), suggesting temperature is also a poor predictor of precipitation.
 
 **Multivariate Regression Analysis**
 
