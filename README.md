@@ -1,4 +1,4 @@
-****Analysis of the Relationship Between Wind Speed, Temperature, and Precipitation**
+**Analysis of the Relationship Between Wind Speed, Temperature, and Precipitation**
 
 This analysis investigates the relationship between wind speed, temperature, and precipitation to determine whether precipitation is dependent on those weather elements. The study involves correlation analysis, univariate, and multivariate regression models, to understand the influences of wind speed and temperature on precipitation. 
 
